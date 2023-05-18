@@ -23,7 +23,7 @@ Cara Eksekusi Script Auto Installer
 
 Download File auto.sh di VPS Anda
 
-wget https://github.com/boychongzen18/AutoScripts_VPS/blob/main/auto.sh
+-P /root -N --no-check-certificate "https://github.com/boychongzen18/AutoScripts_VPS/blob/main/auto.sh
 
 bash auto.sh
 
