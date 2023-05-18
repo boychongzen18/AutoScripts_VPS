@@ -1,8 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-sudo su
-apt update && upgrade -y
-apt install wget -y
 echo "Scripts is Downloading......"
 echo
 echo
