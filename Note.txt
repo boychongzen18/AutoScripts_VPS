@@ -1,0 +1,39 @@
+===========================================================================
+                      Regards Boychongzen aka Xroot
+===========================================================================
+
+
+Cara Eksekusi Display Linux System
+
+INSTALL MANUAL neofetch
+
+sudo su
+apt update && upgrade -y
+apt install neofetch wget
+
+nano ~/.bashrc
+
+
+# Display system info 
+neofetch
+
+===========================================================================
+
+Cara Eksekusi Script Installer Auto
+
+Download File auto.sh di VPS Anda
+
+wget https://github.com/boychongzen18/AutoScripts_VPS/blob/main/auto.sh
+
+bash auto.sh
+
+===========================================================================
+
+SILAHKAN DI PELAJARIN SENDIRI CARA BUAT AKUN TROJAN,VMES & VMES
+
+BELUM PAHAM RAKIT CONFIGNYA DLL SILAHKAN CHAT FB SAYA DI BAWAH
+
+https://web.facebook.com/xroot.xroot.7
+
+
+===========================================================================
