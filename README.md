@@ -8,15 +8,11 @@
 
 My Youtube    : https://www.youtube.com/@AksesInternet2023
 
-Link Tutorial : https://youtu.be/fZIBHfnKwTo
+Link Tutorial : 
 
 My Website    : https://hackingforlive.wordpress.com
 
 My Facebok    : https://web.facebook.com/xroot.xroot.7
-
-eMAIL         : hackingforlive@yahoo.com     
-
-MyTeam HFL    : https://defacer.id/archive/team/hackingforlive
 
 # Moto : Berbagi Itu Indah
 
