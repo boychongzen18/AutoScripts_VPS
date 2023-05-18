@@ -3,7 +3,7 @@
 # Created Boychongzen aka Xroot
 
 # Free Installer Scripts VPS
-![be](https://raw.githubusercontent.com/boychongzen18/BugAllOP/master/S.png)
+![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/vps1.jpg)
 
 
 My Youtube    : https://www.youtube.com/@AksesInternet2023
