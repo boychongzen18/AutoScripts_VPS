@@ -19,7 +19,7 @@ neofetch
 
 ===========================================================================
 
-Cara Eksekusi Script Installer Auto
+Cara Eksekusi Script Auto Installer 
 
 Download File auto.sh di VPS Anda
 
