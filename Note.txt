@@ -9,7 +9,7 @@ INSTALL MANUAL neofetch
 
 sudo su
 apt update && upgrade -y
-apt install neofetch wget
+apt install neofetch wget -y
 
 nano ~/.bashrc
 
