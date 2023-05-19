@@ -1,4 +1,4 @@
-CARA MENGAKTIFKAN SSH ROOT ACCESS PADA LINUX UBUNTU SERVER
+CARA MENGAKTIFKAN SSH ROOT ACCESS DI VPS
 Adapun Langkahnya:
 
 1. masuk ke super user 
@@ -29,7 +29,7 @@ isikan passwordnya
 6. uji coba remote ssh dengan user root via PUTTY
 
 ===========================================================================
-                        Author Boychongzen aka Xroot    
-				   https://web.facebook.com/xroot.xroot.7             
-					    Regards Boychongzen aka Xroot					  
+                     Author Boychongzen aka Xroot    
+		https://web.facebook.com/xroot.xroot.7             
+		     Regards Boychongzen aka Xroot					  
 ===========================================================================
