@@ -1,5 +1,5 @@
 CARA MENGAKTIFKAN SSH ROOT ACCESS DI VPS
-Adapun Langkahnya:
+LANGKAH - LANGKAHNYA :
 
 1. masuk ke super user 
 # sudo su 
