@@ -1,0 +1,35 @@
+CARA MENGAKTIFKAN SSH ROOT ACCESS PADA LINUX UBUNTU SERVER
+Adapun Langkahnya:
+
+1. masuk ke super user 
+# sudo su 
+
+2. edit file /etc/ssh/sshd_config
+# nano /etc/ssh/sshd_config
+
+Contoh Foto : https://raw.githubusercontent.com/boychongzen18/AutoScripts_VPS/main/sshd.jpg
+
+kemudian ubahlah PermitRootLogin without-password menjadi   PermitRootLogin yes
+
+3. Edit file /etc/ssh/ssh_config
+# nano /etc/ssh/ssh_config
+
+Contoh Foto : https://raw.githubusercontent.com/boychongzen18/AutoScripts_VPS/main/ssh.jpg
+
+hilangkan tanda pagar pada PasswordAuthentication yes
+
+4. berilah password user root
+#passwd root
+
+isikan passwordnya
+
+5. restart layanan ssh
+#service ssh reload
+
+6. uji coba remote ssh dengan user root via PUTTY
+
+===========================================================================
+                        Author Boychongzen aka Xroot    
+				   https://web.facebook.com/xroot.xroot.7             
+					    Regards Boychongzen aka Xroot					  
+===========================================================================
