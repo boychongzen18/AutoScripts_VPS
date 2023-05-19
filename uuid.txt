@@ -1,0 +1,11 @@
+
+uuid atau password VMESS & VLESS
+1:vps.barokahnet.xyz_c74e84fe-c4f5-474d-91b3-bebf2ebddd3d oke
+2:vps.barokahnet.xyz_f404a0fb-d7b8-41bf-ae60-98851b9ac454 oke
+3:vps.barokahnet.xyz_9da701d0-f635-4e12-9497-79a92fb498d6 oke
+4:vps.barokahnet.xyz_92cca29c-7c9d-46bc-86e6-72b08e779226
+5:vps.barokahnet.xyz_b793d28b-25a6-4560-b742-51d94f8132ee
+6:vps.barokahnet.xyz_d9be096b-6715-4c06-ac33-dcb842d6d7a2
+7:vps.barokahnet.xyz_261c7c21-874a-4858-8528-f51cac34811b
+8:vps.barokahnet.xyz_6c5343cc-b1c5-43df-8635-ca0d395f5477
+9:vps.barokahnet.xyz_6074fb12-554b-4a29-b9c9-faee0c60c6d3
