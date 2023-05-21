@@ -18,3 +18,11 @@ List uuid atau password TROJAN,VMESS & VLESS
 7:vps.barokahnet.xyz_261c7c21-874a-4858-8528-f51cac34811b
 8:vps.barokahnet.xyz_6c5343cc-b1c5-43df-8635-ca0d395f5477
 9:vps.barokahnet.xyz_6074fb12-554b-4a29-b9c9-faee0c60c6d3
+
+
+1:indo.barokahnet.my.id_42fcb606-559f-4c61-97cb-cf54e00bf9fc
+2:indo.barokahnet.my.id_9d6a468d-bd5a-48ab-92c6-96c67c3a34ce
+
+
+
+
