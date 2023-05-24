@@ -1,0 +1,34 @@
+===========================================================================
+                      Regards Boychongzen aka Xroot
+===========================================================================
+
+Install di VPS  Dengan Akses root 
+
+Eksekusi di OS Ubuntu 
+
+cd /root/;apt update;apt install -y bzip2 gzip && wget https://github.com/boychongzen18/AutoScripts_VPS/blob/main/install.sh && chmod +x install.sh && ./install.sh
+
+
+Cara Eksekusi Script Auto Installer 
+
+Download File auto.sh di VPS Anda
+
+wget https://github.com/boychongzen18/AutoScripts_VPS/blob/main/auto.sh && chmod +x auto.sh && ./auto.sh
+
+bash auto.sh
+
+
+===========================================================================
+
+SILAHKAN DI PELAJARIN SENDIRI CARA BUAT AKUN TROJAN,VMESS & VLESS
+
+BELUM PAHAM RAKIT CONFIGNYA DLL SILAHKAN CHAT FB SAYA DI BAWAH
+
+LINK CONTOH AKUNNYA 
+https://id.anotepad.com/notes/meh6i3dr
+
+https://web.facebook.com/xroot.xroot.7
+
+Group EFB : https://web.facebook.com/groups/1342814316283498
+
+===========================================================================
