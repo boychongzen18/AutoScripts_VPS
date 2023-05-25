@@ -1,0 +1,24 @@
+===========================================================================
+                      Regards Boychongzen aka Xroot
+===========================================================================
+
+Install di VPS  Dengan Akses root 
+
+Eksekusi di OS Ubuntu 
+
+Cara Eksekusi Script Bahan2 
+
+sudo su
+
+cd /root/;apt update;apt install -y bzip2 gzip && wget https://github.com/boychongzen18/AutoScripts_VPS/blob/main/install.sh && chmod +x install.sh && ./install.sh
+
+
+
+Cara Eksekusi Script Auto Installer 
+
+
+wget https://github.com/boychongzen18/AutoScripts_VPS/blob/main/installer.sh && chmod +x installer.sh && ./installer.sh
+
+
+
+
