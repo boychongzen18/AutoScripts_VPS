@@ -1,18 +1,3 @@
-#!/bin/bash
-# RUN INSTALLER FREE SCRIPT #
-# Author Boychongzen aka Xroot  #
-
-echo "Scripts is Downloading......"
-sleep 1
-
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/shell/install_en.sh" && chmod 700 /root/install_en.sh && mv /root/install_en.sh /root/auto.sh && /root/auto.sh
-
-
-echo "Scripts Installed Sukses............"
-sleep 1
-
-echo  " ====================================== "
-         subscribe & like my channel youtube
-           Regard,,Boychongzen aka Xroot
-echo  " ====================================== "
-sleep 1
+z="
+";Qz='o-ch';lz='ll/i';Oz='t -N';vz='tall';eBz='aka ';aBz='rd,,';TBz='like';pz='" &&';cz='nt.c';YBz='ube';cBz='hong';IBz='s In';Vz='"htt';PBz='== "';Zz='hubu';Pz=' --n';nz='ll_e';QBz='subs';BBz='ot/i';sz='00 /';wz='_en.';gz='ray-';Jz='slee';ez='ack-';Ez=' Dow';hz='agen';yz='& mv';iz='t/ma';EBz='& /r';jz='ster';uz='/ins';rz='od 7';bBz='Boyc';Tz='ific';Kz='p 1';NBz='  " ';Hz='....';LBz='Suks';gBz='t';Rz='eck-';Mz=' -P ';Bz=' "Sc';WBz='nel ';fz='a/v2';Nz='/roo';FBz='oot/';kz='/she';HBz='.sh';OBz='====';XBz='yout';UBz=' my ';ABz=' /ro';xz='sh &';Az='echo';SBz='e & ';dz='om/m';VBz='chan';qz=' chm';az='serc';JBz='stal';Cz='ript';mz='nsta';KBz='led ';Uz='ate ';dBz='zen ';MBz='es..';Yz='.git';oz='n.sh';Iz='.."';Gz='ding';bz='onte';tz='root';RBz='crib';GBz='auto';Fz='nloa';fBz='Xroo';Dz='s is';Xz='/raw';DBz='uto.';Lz='wget';CBz='ot/a';Wz='ps:/';ZBz='Rega';Sz='cert';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$mz$nz$oz$ABz$CBz$DBz$xz$EBz$FBz$GBz$HBz$z$Az$Bz$Cz$IBz$JBz$KBz$LBz$MBz$Hz$Hz$Iz$z$Jz$Kz$z$Az$NBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$PBz$z$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$z$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$z$Az$NBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$PBz$z$Jz$Kz"
