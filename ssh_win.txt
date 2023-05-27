@@ -1,0 +1,21 @@
+===========================================================================
+                    Author  Boychongzen aka Xroot
+===========================================================================
+
+Eksekusi SSH di Windows pakai Git Bash
+
+Download dulu Git Bash Link https://git-scm.com/downloads 
+
+Download dulu SSH Windows Link https://github.com/boychongzen18/AutoScripts_VPS/blob/main/OpenSSH-Win64.zip
+
+Ekstrak & Taruk Folder SSH ke direktori Windows
+
+Local System C :
+
+Folder Users > Folder Windows & Copas Folder SSH 
+
+Buka Git Bash & Eksekusi SSHnya
+
+cara Eksekusi di terminal buat remote VPSnya
+
+ssh root@192.168.1.1  << contoh buka OpenWRT
