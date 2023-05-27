@@ -1,4 +1,4 @@
-# Auto_Sripts_VPS
+# FREE Auto Sripts VPS
 
 # Created Boychongzen aka Xroot
 
