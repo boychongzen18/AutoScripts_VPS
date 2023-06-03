@@ -12,7 +12,7 @@
 # Free Installer Scripts VPS
 ![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/vps1.jpg)
 # Panel VPS
-![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/Panel.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/panel.jpg)
 
 
 My Youtube    : https://www.youtube.com/@AksesInternet2023
