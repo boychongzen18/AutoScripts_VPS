@@ -11,6 +11,7 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/Screenshot_6.jpg)
 # Free Installer Scripts VPS
 ![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/vps1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/jkt.jpg)
 # Panel VPS
 ![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/panel.jpg)
 
