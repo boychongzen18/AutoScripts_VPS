@@ -19,6 +19,9 @@
 # Panel VPS
 ![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/panel.jpg)
 
+# PEMAKEAN HARIAN
+![be](https://raw.githubusercontent.com/boychongzen18/Auto_Sripts_VPS/main/data.jpg)
+
 
 My Youtube    : https://www.youtube.com/@AksesInternet2023
 
